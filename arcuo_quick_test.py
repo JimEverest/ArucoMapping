@@ -11,7 +11,7 @@ video_path = "C:/Users/jtian/Documents/test_1min.mkv"
 cap = cv2.VideoCapture(1)
 # testimg = "D:\PotPlayer_20190321\PotPlayer\Capture/test_1min.mkv_20200409_192249.355.jpg"
 
-testimg = "img_test/test_5_6_8.jpg"
+testimg = "test/1.png"
 # testimg = "test2/a.png"
 # cap = cv2.VideoCapture(video_path)
 #标定矩阵-iphone
